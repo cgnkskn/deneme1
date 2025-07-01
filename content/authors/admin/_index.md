@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: Cagin Keskin
 
 # Name pronunciation (optional)
-name_pronunciation: Cagin Keskin
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Cagin
@@ -11,7 +11,7 @@ last_name: Keskin
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: CERGE-EI
+    url: https://cerge-ei.cz/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
